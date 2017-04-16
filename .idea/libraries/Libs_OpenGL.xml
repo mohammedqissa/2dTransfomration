@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Libs_OpenGL">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Libs_OpenGL" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/Libs_OpenGL" recursive="false" />
+  </library>
+</component>
